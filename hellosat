@@ -1,0 +1,7 @@
+echo“# sat”>>README.md 
+git init 
+git add README.md 
+git commit -m“第一次提交” 
+git分支-M主
+git远程添加起源https://github.com/laiuhsyawlaoaiys/sat.git
+ git推送- u 起源主要1
